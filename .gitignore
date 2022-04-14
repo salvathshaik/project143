@@ -1,0 +1,4 @@
+salvath.info
+*.class
+*.log
+logs/
