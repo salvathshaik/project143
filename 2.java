@@ -7,4 +7,6 @@ edited ?
   
 edited from remote server
 
-hi bro welcome back 
+hi bro welcome back
+
+changing after v1.0
